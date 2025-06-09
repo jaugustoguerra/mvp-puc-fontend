@@ -20,8 +20,8 @@ Este é o front-end do projeto de gerenciamento de alunos. É uma SPA (Single Pa
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/front-end-gerenciador-alunos.git
-cd front-end-gerenciador-alunos
+git clone https://github.com/jaugustoguerra/mvp-puc-fontend.git
+cd mvp-puc-fontend
 ```
 
 2. Abra o arquivo `index.html` diretamente no navegador:
